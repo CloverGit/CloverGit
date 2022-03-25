@@ -17,3 +17,5 @@ I mainly use KiCad for hardware development, CLion for STM32 software developmen
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=fff)
 ![ZYNQ](https://img.shields.io/badge/-ZYNQ-E01F27?style=for-the-badge&logo=Xilinx&logoColor=fff)
+
+### **Talk is cheap. Show me the code.**
