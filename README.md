@@ -2,20 +2,41 @@
 I'm an IoT and embedded developer, open source hardware designer, and an amateur photographer and amateur radio operator, you can call me CloverGit.
 I mainly use KiCad for hardware development, CLion for STM32 software development.
 
-#### Working On
-[![Windows 10](https://img.shields.io/badge/Windows%2010-0177c6?style=for-the-badge&logo=windows&logoColor=fff)](https://www.microsoft.com/en-us/windows/)
-[![Kali Linux 2022.1](https://img.shields.io/badge/Kali%20Linux%202022.1-2777ff?style=for-the-badge&logo=kalilinux&logoColor=fff)](https://www.kali.org/)
-[![CentOS Linux 7.9](https://img.shields.io/badge/CentOS%20Linux%207.9-306bc2?style=for-the-badge&logo=centos&logoColor=fff)](https://www.centos.org/)
-[![Manjaro Linux 20.1](https://img.shields.io/badge/Manjaro%20Linux%2020.1-35bf5c?style=for-the-badge&logo=manjaro&logoColor=fff)](https://manjaro.org/)
-[![Android 10](https://img.shields.io/badge/Android%2010-539273?style=for-the-badge&logo=android&logoColor=fff)](https://www.android.com/android-10/)
+- 🔭 I’m currently studying at LMU
+- 🌱 I’m currently learning STM32, Rust and Golang
+- 📫 How to reach me: CloverGit@foxmail.com
+- ⚡ Fun fact: Guitar, Photograph and Ham radio
 
-#### Platforms
-![Arm](https://img.shields.io/badge/-Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=fff)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=fff)
-![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=fff)
-![MCS-51](https://img.shields.io/badge/-MCS--51-0071C5?style=for-the-badge&logo=Intel&logoColor=fff)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=fff)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=fff)
-![ZYNQ](https://img.shields.io/badge/-ZYNQ-E01F27?style=for-the-badge&logo=Xilinx&logoColor=fff)
+[![Windows 10](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=white)](https://windows.com/)
+[![Linux CentOS](https://img.shields.io/badge/Linux-CentOS-blue?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
+[![Linux Kali](https://img.shields.io/badge/Linux-Kali-blue?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Linux Manjaro](https://img.shields.io/badge/Linux-Manjaro-blue?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
+[![Android 10](https://img.shields.io/badge/Android-10-blue?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+
+[![Clion](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![Goland](https://img.shields.io/badge/IDE-Goland-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![Intellij-Idea](https://img.shields.io/badge/IDE-Intellij_Idea-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![Keil](https://img.shields.io/badge/IDE-Keil-blue?style=flat-square&logo=Arm&logoColor=white)](https://www.keil.com/)
+[![Vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Andriod Studio](https://img.shields.io/badge/IDE-Andriod_Studio-blue?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio/)
+[![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-blue?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+
+[![KiCad](https://img.shields.io/badge/-KiCad-gray?style=flat-square&logo=linux-foundation&logoColor=white)](https://kicad.org/)
+[![Altium Designer](https://img.shields.io/badge/-Altium_Designer-gray?style=flat-square&logo=altium-designer&logoColor=white)](https://www.altium.com/)
+[![Fusion 360](https://img.shields.io/badge/-Fusion_360-gray?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/)
+[![AutoCad](https://img.shields.io/badge/-AutoCad-gray?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/)
+[![SolidWorks](https://img.shields.io/badge/-SolidWorks-gray?style=flat-square&logo=dassault-systèmes&logoColor=white)](https://www.solidworks.com/)
+[![Blender](https://img.shields.io/badge/Blender-gray?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
+
+![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)
+![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=fff)
+![MCS-51](https://img.shields.io/badge/-MCS--51-0071C5?style=flat-square&logo=Intel&logoColor=fff)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
+![ZYNQ](https://img.shields.io/badge/-ZYNQ-E01F27?style=flat-square&logo=Xilinx&logoColor=fff)
+
+[![WakaTime](https://wakatime.com/share/@Clover/cf83f893-b64e-4c92-bd2a-3b1c644b9758.svg)]()
 
 ### **Talk is cheap. Show me the code.**
