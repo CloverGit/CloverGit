@@ -29,6 +29,7 @@ I mainly use KiCad for hardware development, CLion for STM32 software developmen
 [![SolidWorks](https://img.shields.io/badge/-SolidWorks-gray?style=flat-square&logo=dassault-systèmes&logoColor=white)](https://www.solidworks.com/)
 [![Blender](https://img.shields.io/badge/Blender-gray?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 
+![Embedded](https://img.shields.io/badge/-Embedded-gray?style=flat-square&logo=RobotFramework&logoColor=fff)
 ![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=fff)
