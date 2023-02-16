@@ -38,6 +38,7 @@ I mainly use KiCad for hardware development, CLion for STM32 software developmen
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
 ![ZYNQ](https://img.shields.io/badge/-ZYNQ-E01F27?style=flat-square&logo=Xilinx&logoColor=fff)
 
+#### Coding Activity over Last Year
 [![WakaTime](https://wakatime.com/share/@CloverGit/b7888587-5cae-4f80-9f75-a47a989bc595.svg)]()
 
 ### **Talk is cheap. Show me the code.**
