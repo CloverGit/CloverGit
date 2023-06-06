@@ -10,7 +10,7 @@ I mainly use KiCad for hardware development, CLion for embedded software develop
 [![Linux CentOS](https://img.shields.io/badge/Linux-CentOS-blue?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
 [![Linux Kali](https://img.shields.io/badge/Linux-Kali-blue?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Linux Manjaro](https://img.shields.io/badge/Linux-Manjaro-blue?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
-[![Android 13](https://img.shields.io/badge/Android-10-blue?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![Android 13](https://img.shields.io/badge/Android-13-blue?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 [![Clion](https://img.shields.io/badge/-Clion-0bb1b8?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-bdc33c?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/)
