@@ -19,7 +19,7 @@ Now I'm studying software engineering and transitioning into a full-stack develo
 - ⚡ You might want me in your machine for some reason:
 
 ```shell
-curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B.gpg | gpg --import
+curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B | gpg --import
 ```
 
 ~~Some decorations~~
