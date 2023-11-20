@@ -14,7 +14,7 @@ Now I'm studying software engineering and transitioning into a full-stack develo
 
 - 📫 You can reach me at my email CloverGit@hotmail.com.
 
-- 🔑 here's my GPG key: `F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B`
+- 🔑 Here's my PGP key: `F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B`
 
 - ⚡ You might want me in your machine for some reason:
 
