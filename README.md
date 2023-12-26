@@ -24,12 +24,12 @@ curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B390
 
 ~~Some decorations~~
 
-[![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=for-the-badge&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
-[![Android 13](https://img.shields.io/badge/Android13-327555?style=for-the-badge&logo=Android&logoColor=white)](https://www.android.com/)
-[![Intellij-Idea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=for-the-badge&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
-[![Clion](https://img.shields.io/badge/-Clion-7955c6?style=for-the-badge&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
-[![KiCad](https://img.shields.io/badge/-KiCad-2930af?style=for-the-badge&logo=KiCad&logoColor=white)](https://kicad.org/)
-![Arm](https://img.shields.io/badge/-Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=fff)
+[![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
+[![Android 13](https://img.shields.io/badge/Android13-327555?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/)
+[![Intellij-Idea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=flat-square&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
+[![Clion](https://img.shields.io/badge/-Clion-7955c6?style=flat-square&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
+[![KiCad](https://img.shields.io/badge/-KiCad-2930af?style=flat-square&logo=KiCad&logoColor=white)](https://kicad.org/)
+![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)
 
 #### Coding Activity over Last Year
 [![WakaTime](https://wakatime.com/share/@CloverGit/b7888587-5cae-4f80-9f75-a47a989bc595.svg)]()
