@@ -22,14 +22,12 @@ Now I'm studying software engineering and transitioning into a full-stack develo
 curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B | gpg --import
 ```
 
-~~Some decorations~~
-
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
 [![Android 13](https://img.shields.io/badge/Android13-327555?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/)
 [![Intellij-Idea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=flat-square&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
-[![Clion](https://img.shields.io/badge/-Clion-7955c6?style=flat-square&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
+[![Clion](https://img.shields.io/badge/-Clion_Nova-7955c6?style=flat-square&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
 [![KiCad](https://img.shields.io/badge/-KiCad-2930af?style=flat-square&logo=KiCad&logoColor=white)](https://kicad.org/)
-![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)
+[![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)](https://www.arm.com/)
 
 #### Coding Activity over Last Year
 [![WakaTime](https://wakatime.com/share/@CloverGit/b7888587-5cae-4f80-9f75-a47a989bc595.svg)]()
