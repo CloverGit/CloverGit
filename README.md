@@ -2,21 +2,19 @@
 
 Thanks for stopping by.
 
-I'm an Embedded System Developer and Hardware Designer, open source software and hardware enthusiast, interested in it since early age, you can call me CloverGit.
+I'm CloverGit, an Embedded System Developer and Hardware Designer, open source software and hardware enthusiast, interested in this field since early age.
 
-As a hardware engineer, I love high accuracy design and cutting-edge hardware, and strive to design extreme hardware. Additionally, I'm a necromancer of vintage electronics (radio, amplifier, computer, CPU, vacuum tube...) and often keen on some hacking trick of hardware.
+As a hardware engineer, I like high-precision design and state-of-the-art hardware, a lot of time and effort has gone into this area. Additionally, I'm also a necromancer of vintage electronics (radios, amplifiers, computers, CPUs, vacuum tubes...). Exploring the intricacies of these older is something I thoroughly enjoy.
 
-I specialize in developing firmware for microcontrollers (STM32 mainly, ARM Cortex-M0, M3, M4 and M7), circuit design and PCB layout, mainly use KiCad for hardware development, CLion (CMake + GCC) for embedded software development. I'm passionate about learning and trying new things that I haven't learned before, communicating and sharing that knowledge with others.
+I specialize in firmware development for microcontrollers (focus on ARM Cortex-M[0,3,4,7], but also have experience working with RISC-V and other mess). In addition, I am skilled in circuit design and PCB layout, utilizing KiCad for hardware development, GCC for embedded software development. Hardware and Software reverse engineering, and dirty hacking tricks are also my idea of fun!
 
-Now I'm studying software engineering and transitioning into a full-stack developer.
+Now, I'm studying software engineering and transitioning into a full-stack developer. Learning and exploring new concepts that I haven't encountered before is a passion of mine, and I thoroughly enjoy sharing that knowledge to others.
 
-- 🔭 Recently, I've been learning something in the field of deep learning and machine vision, so as to develop some applications related to it.
+- 🔭 Recently, I've been learning something in the field of deep learning and machine vision.
 
 - 📫 You can reach me at my email CloverGit@hotmail.com.
 
-- 🔑 Here's my PGP key: `F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B`
-
-- ⚡ You might want me in your machine for some reason:
+- 🔑 You might want me in your machine for some reason:
 
 ```shell
 curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B | gpg --import
