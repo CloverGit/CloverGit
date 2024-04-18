@@ -8,7 +8,7 @@ As a hardware engineer, I like high-precision design and state-of-the-art hardwa
 
 I specialize in firmware development for microcontrollers (focus on ARM Cortex-M[0,3,4,7], but also have experience working with RISC-V and other mess). In addition, I am skilled in circuit design and PCB layout, utilizing KiCad for hardware design, GCC for embedded software development. Hardware and Software reverse engineering, and dirty hacking tricks are also my idea of fun!
 
-Now, I'm studying software engineering and transitioning into a full-stack developer. Learning and exploring new concepts that I haven't encountered before is a passion of mine, and I thoroughly enjoy sharing that knowledge to others.
+Now, I'm studying software engineering and transitioning into a full-stack developer. Learning and exploring new concepts that I haven't encountered before is a passion of mine, and I thoroughly enjoy sharing that knowledge with you!
 
 - 🔭 Recently, I've been learning something in the field of deep learning and machine vision.
 
