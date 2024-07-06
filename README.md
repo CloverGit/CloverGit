@@ -17,7 +17,7 @@ Now, I'm studying software engineering and transitioning into a full-stack devel
 - 🔑 You might want me in your machine for some reason:
 
 ```shell
-curl https://keys.openpgp.org/vks/v1/by-fingerprint/F633CFF04A3EA3407E1723E2B39037F5D0AC3C9B | gpg --import
+gpg --keyserver hkps://keys.openpgp.org --recv-keys B39037F5D0AC3C9B
 ```
 
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
