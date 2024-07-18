@@ -20,6 +20,7 @@ Now, I'm studying software engineering and transitioning into a full-stack devel
 gpg --keyserver hkps://keys.openpgp.org --recv-keys B39037F5D0AC3C9B
 ```
 
+[![wakatime](https://wakatime.com/badge/user/c61c4f13-2142-4d06-8e37-1a6e2f392992.svg?style=flat-square)](https://wakatime.com/@c61c4f13-2142-4d06-8e37-1a6e2f392992)
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
 [![Android 13](https://img.shields.io/badge/Android13-327555?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/)
 [![Intellij-Idea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=flat-square&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
