@@ -20,11 +20,12 @@ Now, I'm studying software engineering and transitioning into a full-stack devel
 gpg --keyserver hkps://keys.openpgp.org --recv-keys B39037F5D0AC3C9B
 ```
 
-[![wakatime](https://wakatime.com/badge/user/c61c4f13-2142-4d06-8e37-1a6e2f392992.svg?style=flat-square)](https://wakatime.com/@c61c4f13-2142-4d06-8e37-1a6e2f392992)
-[![Arch Linux](https://img.shields.io/badge/ArchLinux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
-[![Android 13](https://img.shields.io/badge/Android13-327555?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/)
-[![Intellij-Idea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=flat-square&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
-[![Clion](https://img.shields.io/badge/-Clion_Nova-7955c6?style=flat-square&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
+[![WakaTime](https://wakatime.com/badge/user/c61c4f13-2142-4d06-8e37-1a6e2f392992.svg?style=flat-square)](https://wakatime.com/@c61c4f13-2142-4d06-8e37-1a6e2f392992)
+[![ArchLinux](https://img.shields.io/badge/Arch_Linux-3783d1?style=flat-square&logo=ArchLinux&logoColor=white)](https://archlinux.org/)
+[![Android13](https://img.shields.io/badge/Android13-327555?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/)
+[![LazyVim](https://img.shields.io/badge/LazyVim-2e7de9?style=flat-square&logo=LazyVim&logoColor=white)](https://www.lazyvim.org/)
+[![IntellijIdea](https://img.shields.io/badge/-Intellij_IDEA-b51651?style=flat-square&logo=IntellijIDEA&logoColor=white)](https://www.jetbrains.com/)
+[![ClionNova](https://img.shields.io/badge/-Clion_Nova-7955c6?style=flat-square&logo=CLion&logoColor=white)](https://www.jetbrains.com/)
 [![KiCad](https://img.shields.io/badge/-KiCad-2930af?style=flat-square&logo=KiCad&logoColor=white)](https://kicad.org/)
 [![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)](https://www.arm.com/)
 
