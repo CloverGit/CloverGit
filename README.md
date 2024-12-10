@@ -29,7 +29,10 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys B39037F5D0AC3C9B
 [![KiCad](https://img.shields.io/badge/-KiCad-2930af?style=flat-square&logo=KiCad&logoColor=white)](https://kicad.org/)
 [![Arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=Arm&logoColor=fff)](https://www.arm.com/)
 
-#### Coding Activity over Last Year
+***
+### Coding Activity over Last Year
 [![WakaTime](https://wakatime.com/share/@CloverGit/b7888587-5cae-4f80-9f75-a47a989bc595.svg)]()
 
 ### **Talk is cheap. Show me the code.**
+#### **Write the code, Change the world.**
+[![FSFMember](https://static.fsf.org/nosvn/associate/crm/6827367.png)]()
